@@ -1,0 +1,12 @@
+currency: DIAMOND
+
+cryptocurrencies:
+  - id: bitcoin
+    name: BTC
+    display_item: GOLD_INGOT
+  - id: ethereum
+    name: ETH
+    display_item: EMERALD
+  - id: the-open-network
+    name: TON
+    display_item: DIAMOND
