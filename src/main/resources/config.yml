@@ -1,12 +1,21 @@
+# Внутриигровой предмет, который используется как валюта для покупок/продаж (например, алмаз)
 currency: DIAMOND
 
+# Список криптовалют, которые доступны в плагине
 cryptocurrencies:
-  - id: bitcoin
-    name: BTC
-    display_item: GOLD_INGOT
+  - id: bitcoin          # Уникальный идентификатор криптовалюты (используется для API)
+    name: BTC            # Краткое отображаемое имя (сокращение)
+    display_item: GOLD_INGOT  # Предмет Minecraft, который будет отображаться в GUI для этой крипты
+
   - id: ethereum
     name: ETH
     display_item: EMERALD
+
   - id: the-open-network
     name: TON
     display_item: DIAMOND
+
+# Пример добавления новой криптовалюты:
+#  - id: cardano
+#    name: ADA
+#    display_item: REDSTONE
