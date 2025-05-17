@@ -6,6 +6,8 @@ CryptoCraft — плагин для сервера Minecraft, который п�
 
 ---
 
+![ezgif-4d64039aecd03f](https://github.com/user-attachments/assets/b06b3de6-7bfa-4a47-863e-6fd08815901c)
+
 ## Команды
 
 ### `/crypto`
